@@ -9,8 +9,8 @@ This web app implements a simple Pokemon battle between two random Pokemon.
 ##How to use
 - Clone this repo onto your machine
 - Navigate to the cloned repo
-- run `npm install`
-- run `npm run build`
-- open `index.html` in your browser
+- Run `npm install`
+- Run `npm run build`
+- Open `index.html` in your browser
 
 *Note*: You must be connected to the internet for this app to work
