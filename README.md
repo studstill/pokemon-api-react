@@ -1,4 +1,4 @@
-#Pokemon battle built with React
+#Pokemon Battle Built with React
 
 This web app implements a simple Pokemon battle between two random Pokemon.
 - `Attack 1` is a guaranteed, low-damage hit
